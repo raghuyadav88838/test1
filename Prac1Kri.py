@@ -9,11 +9,11 @@ Created on Sun May 23 15:50:41 2021
 4*5
 10/2
 10**2
-10*'str'
+20*'str'
 type(False)
 "Hello"
 'raghu'
-a=10
+a=100
 type(a)
 a='chinnu'
 type(a)
